@@ -42,7 +42,8 @@ The most basic HTML tags are simply `<html>` and `</html>`, and **all the conten
 
 On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then after the head tags, add `<body>` tags--and remember that every tag also needs a closing tag.
 
-+ The `<head>` contains information *about* your website, but not actual content that will show up on the page (think of it as the 'brains' of your webpage.) It will contain things like the title of your page --later on--links to stylesheets and code that will make your page beautiful and interactive.
++ The `<head>` contains information *about* your website, but not actual content that will show up on the page (think of it as the 'brains' of your webpage.) It will contain things like the title of your page and links to stylesheets and code that will make your page beautiful and interactive.
+
 + The `<body>` contains all the content of your page that will actually show up on the screen. 90% of the HTML you write will go inside the `<head>`
 
 At this point, it's good to make sure that your code is still 'clean' and readable. To show that the  `<body>` and `<head>` tags are ***inside*** the html tags, press `TAB` to indent them over like you would a paragraph. Look at the three examples below.
@@ -94,7 +95,7 @@ At this point, it's good to make sure that your code is still 'clean' and readab
 
 ## Step Four--Add content and experiment to create a hobby page.
 
-At this point, you're ready to add content to your first web page! For starters, just try typing text in side the body of your page. If your tags are written correctly, it should show up! For this first project, your task to to create a **hobby** page that explains something your like to, or just something you happen to know a lot about.  
+At this point, you're ready to add content to your first web page! For starters, just try typing text in side the body of your page. If your tags are written correctly, it should show up! For this first project, your task to to create a **hobby** page that explains something your like to do, or just something you happen to know a lot about.  
 
 The `<head>` element, however, is different--any information here is information for the web browser about the page (a.k.a "metadata")--but it's **not** the content itself. One clear example is the `<title>` tag, which will give your page a title on the tab of the browser; Try giving your page a title by adding a title inside the head now:
 
@@ -111,7 +112,7 @@ The `<head>` element, however, is different--any information here is information
 
 If we want, we could just type text into the `<body>` element of the page, but that's not ideal--let's add some HTML elements to keep our content organized.
 
-Experiment with the following tags by adding them inside the body of your html document! what do each of them do? What do you think they stand for?
+Experiment with the following tags by adding them inside the body of your html document! What do each of them do? What do you think they stand for?
 + `<h1> This text is big and bold! Like my paintings of koalas. </h1>`
 + `<h2> What about this text? </h2>`
 + `<h3> And what about this text?? </h3>`
@@ -148,9 +149,9 @@ Go to [this link about tables in HTML](https://www.tutorialspoint.com/html/html_
 
 ### The Image tag
 
-Some tags require extra information, or **attributes** to accomplish their purpose. The image tag, for instance, needs a **source**, abbreviated as 'src' to direct the web browser where to get the image. To get the source of an image, find any image online, and right/alt click it and select "copy source," which will be in the form of a long url (e.g. "http://thecatapi.com/api/images/get?format=src&type=gif")
+Some tags require extra information, or **attributes** to accomplish their purpose. The image tag, for instance, needs a **source**, abbreviated as 'src' to direct the web browser to where to get the image. To get the source of an image, find any image online, and right/alt click it and select "copy source," which will be in the form of a long url (e.g. "http://thecatapi.com/api/images/get?format=src&type=gif")
 
-try adding `<img src="http://thecatapi.com/api/images/get?format=src&type=gif" />` to your page. You can add all sorts of images! Try experimenting!
+Try adding `<img src="http://thecatapi.com/api/images/get?format=src&type=gif" />` to your page. You can add all sorts of images! Try experimenting!
 
 
 ### Linking to other pages.
