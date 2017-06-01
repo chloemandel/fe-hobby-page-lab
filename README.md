@@ -1,8 +1,10 @@
-# Build a Passion Page
+# Buddy Up and Build a Webpage
 
-At Upperline, we believe that the best way to get good at Web Development is to **build things that matter to you.** For today's mini-project, you'll be working on a webpage that provides information, images, and links about something you're passionate about.
+At Kode with Klossy, we believe that the best way to get good at Web Development is to work with a team of amazing colleagues and support each other from the start. For today's mini-project, you'll be working on refreshing your knowledge of HTML and CSS by building a personal webpage for one of your classmates (and they will build one for you)!
 
-Paintball? Civics? 19th Century Art? Taylor Swift? You Choose!
+Get to know your partner - Where are they from? What are their interests? What causes do they care about? Try to include links (using the `<a>` tag), images, lists, headers, text, and any other HTML tags that you choose!
+
+=
 
 ## Instructions
 
