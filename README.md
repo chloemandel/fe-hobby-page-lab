@@ -4,7 +4,6 @@ At Kode with Klossy, we believe that the best way to get good at Web Development
 
 Get to know your partner - Where are they from? What are their interests? What causes do they care about? Try to include links (using the `<a>` tag), images, lists, headers, text, and any other HTML tags that you choose!
 
-=
 
 ## Instructions
 
